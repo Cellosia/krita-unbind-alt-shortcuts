@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=UnbindAltShortcuts
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Unbind Alt Shortcuts
+Comment=Free up Alt key for your own shortcuts.
